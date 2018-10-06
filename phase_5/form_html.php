@@ -4,7 +4,7 @@
 
   <head>
     <meta charset="utf-8">
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="./js/jquery-3.3.1.min.js"></script>
     <script>let write = (html) => {return document.write(html)}</script><!--Write to document object-->
     <?php include './includes/form_identifiers.php' ?>
     <link rel="stylesheet" href="./form.css">
