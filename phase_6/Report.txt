@@ -1,0 +1,7 @@
+Code was compressed into for loops
+In ./includes/new_data/new_data_algorithm removed:
+  echo $input . '.css("display", "none");';
+  echo $subcategory . 'Title.css("display", "none");';
+  These lines are not needed due to them inheriting the same display values as parent
+Nested navigation buttons in form
+Fixed glitch where relative file could not be included due to misunderstanding that relative file works from the current working document and not the file being edited.

@@ -1,0 +1,2 @@
+Implementation of PDO dynamically has failed due to the following error:
+Warning: mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /opt/lampp/htdocs/projects/dynamic_form_algorithm/phase_6/includes/server_to_db.php on line 69

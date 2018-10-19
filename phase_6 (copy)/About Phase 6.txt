@@ -1,0 +1,2 @@
+In this phase the whole CRUD system will be implemented.
+Only Add complete data per Id upon user request
